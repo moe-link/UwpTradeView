@@ -1,0 +1,1 @@
+C:\Workspace\visualstudio\uwp-entellitrade\uwp-entellitrade.csproj;x64
